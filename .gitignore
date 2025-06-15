@@ -1,0 +1,11 @@
+//
+//  .gitignore
+//  WeatherApp
+//
+//  Created by Nikhil Polepalli on 6/15/25.
+//
+
+**/xcuserdata/
+**/*.xcuserstate
+
+/WeatherApp/GoogleService-Info.plist

@@ -15,6 +15,7 @@
 		91962EC32DFE2C9200E5071B /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 91962EC22DFE2C9200E5071B /* FirebaseAuth */; };
 		91962EC62DFE2E0500E5071B /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = 91962EC52DFE2E0500E5071B /* GoogleSignIn */; };
 		91962EC82DFE2E0500E5071B /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 91962EC72DFE2E0500E5071B /* GoogleSignInSwift */; };
+		91962EDF2DFF4B5C00E5071B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 91962EDE2DFF4B5400E5071B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		91962E742DFE021000E5071B /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91962E812DFE021200E5071B /* WeatherAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91962E8B2DFE021200E5071B /* WeatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		91962EDE2DFF4B5400E5071B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -107,6 +109,7 @@
 		91962E6B2DFE021000E5071B = {
 			isa = PBXGroup;
 			children = (
+				91962EDE2DFF4B5400E5071B /* .gitignore */,
 				91962E762DFE021000E5071B /* WeatherApp */,
 				91962E842DFE021200E5071B /* WeatherAppTests */,
 				91962E8E2DFE021200E5071B /* WeatherAppUITests */,
@@ -264,6 +267,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91962EDF2DFF4B5C00E5071B /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

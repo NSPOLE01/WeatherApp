@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Nice")
+            Text("")
             Button("Sign Out"){
                 signOut()
             }
